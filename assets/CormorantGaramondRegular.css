@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'CormorantGaramondRegular';
+    src: url('fonts/CormorantGaramondRegular.eot');
+    src: url('fonts/CormorantGaramondRegular.eot') format('embedded-opentype'),
+         url('fonts/CormorantGaramondRegular.woff2') format('woff2'),
+         url('fonts/CormorantGaramondRegular.woff') format('woff'),
+         url('fonts/CormorantGaramondRegular.ttf') format('truetype'),
+         url('fonts/CormorantGaramondRegular.svg#CormorantGaramondRegular') format('svg');
+}

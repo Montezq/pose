@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'GoboldRegular';
+    src: url('fonts/GoboldRegular.eot');
+    src: url('fonts/GoboldRegular.eot') format('embedded-opentype'),
+         url('fonts/GoboldRegular.woff2') format('woff2'),
+         url('fonts/GoboldRegular.woff') format('woff'),
+         url('fonts/GoboldRegular.ttf') format('truetype'),
+         url('fonts/GoboldRegular.svg#GoboldRegular') format('svg');
+}

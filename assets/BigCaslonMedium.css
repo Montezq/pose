@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'BigCaslonMedium';
+    src: url('fonts/BigCaslonMedium.eot');
+    src: url('fonts/BigCaslonMedium.eot') format('embedded-opentype'),
+         url('fonts/BigCaslonMedium.woff2') format('woff2'),
+         url('fonts/BigCaslonMedium.woff') format('woff'),
+         url('fonts/BigCaslonMedium.ttf') format('truetype'),
+         url('fonts/BigCaslonMedium.svg#BigCaslonMedium') format('svg');
+}
+
+@font-face {
+  font-family: 'Brandon Grotesque Bold';
+  src: url('fonts/BrandonGrotesque-Bold.eot');
+  src: url('fonts/BrandonGrotesque-Bold.eot?#iefix') format('embedded-opentype'),
+      url('fonts/BrandonGrotesque-Bold.woff2') format('woff2'),
+      url('fonts/BrandonGrotesque-Bold.woff') format('woff'),
+      url('fonts/BrandonGrotesque-Bold.ttf') format('truetype'),
+      url('fonts/BrandonGrotesque-Bold.svg#BrandonGrotesque-Bold') format('svg');
+  font-weight: bold;
+  font-style: normal;
+}
+

@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'FreightBigBold';
+    src: url('fonts/FreightBigBold.eot');
+    src: url('fonts/FreightBigBold.eot') format('embedded-opentype'),
+         url('fonts/FreightBigBold.woff2') format('woff2'),
+         url('fonts/FreightBigBold.woff') format('woff'),
+         url('fonts/FreightBigBold.ttf') format('truetype'),
+         url('fonts/FreightBigBold.svg#FreightBigBold') format('svg');
+}
